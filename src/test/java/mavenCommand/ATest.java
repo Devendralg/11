@@ -7,12 +7,12 @@ public class ATest {
 	@Test
 	public void atest()
 	{
-		System.out.println("A.atest()");
+		System.out.println("A.atest 1");
 	}
 	@Test
 	public void btest()
 	{
-		System.out.println("b.atest()");
+		System.out.println("A.atest 2");
 	}
 
 }
